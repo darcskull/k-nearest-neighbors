@@ -1,0 +1,14 @@
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.exe
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.deps.json
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.runtimeconfig.json
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.runtimeconfig.dev.json
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.dll
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\bin\Debug\netcoreapp3.1\Itzld.pdb
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.csproj.AssemblyReference.cache
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.AssemblyInfoInputs.cache
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.AssemblyInfo.cs
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.csproj.CoreCompileInputs.cache
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.dll
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.pdb
+D:\uni\5семестър\iztld\курсов проект\Itzld\Itzld\obj\Debug\netcoreapp3.1\Itzld.genruntimeconfig.cache
